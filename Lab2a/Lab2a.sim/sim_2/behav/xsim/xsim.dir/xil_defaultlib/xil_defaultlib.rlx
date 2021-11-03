@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/samum/Comp541/Lab2a/Lab2a.sim/sim_2/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2a/Lab2a.srcs/sim_2/new/adder4bit_test.sv,1630261830,systemVerilog,,,,adder4bit_test,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2a/Lab2a.srcs/sources_1/imports/new/fulladder.sv,1630258431,systemVerilog,,C:/Users/samum/Comp541/Lab2a/Lab2a.srcs/sim_2/new/adder4bit_test.sv,,fulladder,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2a/Lab2a.srcs/sources_1/new/adder4bit.sv,1630259347,systemVerilog,,C:/Users/samum/Comp541/Lab2a/Lab2a.srcs/sources_1/imports/new/fulladder.sv,,adder4bit,,uvm,,,,,,

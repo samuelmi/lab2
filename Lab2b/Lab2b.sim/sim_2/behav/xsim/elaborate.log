@@ -1,0 +1,45 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 9aca6cfe797a4b9ba3f7f4a6c77ab034 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot Lab3_Part3_test_behav xil_defaultlib.Lab3_Part3_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/ALU.sv" Line 2. Module ALU(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/imports/new/add_sub_8bit.sv" Line 2. Module addsub(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/adder.sv" Line 2. Module adder(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/shifter.sv" Line 2. Module shifter(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/logical.sv" Line 2. Module logical(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/ALU.sv" Line 2. Module ALU(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/imports/new/add_sub_8bit.sv" Line 2. Module addsub(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/adder.sv" Line 2. Module adder(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv" Line 2. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/shifter.sv" Line 2. Module shifter(N=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/logical.sv" Line 2. Module logical(N=8) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fulladder
+Compiling module xil_defaultlib.adder(N=8)
+Compiling module xil_defaultlib.addsub(N=8)
+Compiling module xil_defaultlib.shifter(N=8)
+Compiling module xil_defaultlib.logical(N=8)
+Compiling module xil_defaultlib.ALU(N=8)
+Compiling module xil_defaultlib.Lab3_Part3_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Lab3_Part3_test_behav

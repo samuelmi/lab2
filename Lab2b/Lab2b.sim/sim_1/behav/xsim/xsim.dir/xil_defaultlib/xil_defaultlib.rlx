@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/samum/Comp541/Lab2b/Lab2b.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sim_1/new/Lab2b_Part0_test.sv,1630541620,systemVerilog,,,,addsub_test,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/imports/new/add_sub_8bit.sv,1630532815,systemVerilog,,C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/adder.sv,,addsub,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/adder.sv,1630529342,systemVerilog,,C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv,,adder,,uvm,,,,,,
+C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sources_1/new/fulladder.sv,1630529295,systemVerilog,,C:/Users/samum/Comp541/Lab2b/Lab2b.srcs/sim_1/new/Lab2b_Part0_test.sv,,fulladder,,uvm,,,,,,
